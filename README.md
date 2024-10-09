@@ -17,6 +17,8 @@ A third person game about speleology and exploration where you way down a giant 
 ---
 
 ### **Pendrillons** - M1 ENJMIN project
+![CoverPendrillons](img/cover_pendrillons.png)
+
 Pendrillons is a micro RPG that takes place in a play. Act out your role, choose your lines and actions, and engage in turn-based combat to influence the course of the show. But beware: an audience is watching the performance, and reacting to your every move!
 
 It was created by 5 people in 3 months as an end-of-year project in the first year of the Master's degree at ENJMIN.
@@ -26,21 +28,29 @@ It was created by 5 people in 3 months as an end-of-year project in the first ye
 ---
 
 ### [**Engine Programming**](https://github.com/EyeCrown/Engine_Programming)
+![Cover](img/cover_engine_programming.png)
+
 A 3D game engine project. The engine is developped in C++ using **OpenGL** and the goal is to recreate a minecraft like environment. It integrate procedural world generation, vertex/geometry/fragment shading, FPS movements...
 
 ---
 
 #### [**Game Boy Game developpement**](https://github.com/EyeCrown/GB_TopDownGame)
+![Cover](img/cover_gb_game.png)
+
 This is a tiny game for GameBoy Classic DMG. It's a dungeon crawler where you play a knight fighting monster to reach a tresor deep in the dungeon. This game is developed fully in assembly code **gbz80**.
 
 ---
 
-#### [**Arakne**](https://github.com/EyeCrown/Arakne) 
+#### [**Arakne**](https://github.com/EyeCrown/Arakne)
+![Cover](img/cover_arakne.png)
+
 A shoot 'em up game that offers a cooperative and strategic experience, where light challenges darkness. Made by 11 people team on 4 full-days work as Nano project at ENJMIN using Unity.
 
 ---
 
 #### [**Luminescence**](https://github.com/EyeCrown/Luminescence)
+![Cover](img/cover_luminescence.png)
+
 Luminescence is a walking simulator on an alien planet displayed on four LED panels instead of a screen. This game was made in 3 and a half day during the Alternative Output Workshop at ENJMIN 2023. The objective was to create a game where the output wouldn't be a regular computer screen by using Unity.
 
 ---
