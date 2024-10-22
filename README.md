@@ -2,12 +2,21 @@
 
 #### Hi 👋, I'm Théo(phile) Carrasco !
 
-I am a game developper student at [ENJMIN](https://enjmin.cnam.fr/enjmin/ecole-nationale-du-jeu-et-des-medias-interactifs-accueil-1126103.kjsp) !
-I enjoy learn how games work behind the scene !
+I am a Game Developper student in 2nd year master's degree at [ENJMIN](https://enjmin.cnam.fr/enjmin/ecole-nationale-du-jeu-et-des-medias-interactifs-accueil-1126103.kjsp) 
+with a passion for bringing immersive experiences to life through code, design, and creativity !
+My goal is to specialize in Engine Programming, contributing to the technology that powers games and interactive experiences. 
+I'm also taking an interest in developing retro games, in particular by learning how to develop games for the classic Game Boy.
+
+
+[![ItchIo](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://eyecrown.itch.io/)
+<!--![CV FR](https://img.shields.io/badge/Resume-FR-002153?style=for-the-badge)
+![CV EN](https://img.shields.io/badge/Resume-EN-cf091f?style=for-the-badge)-->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/theophile-carrasco)
+
 
 ## Projects
 
-### **They Make Sound**
+### Current Project - **They Make Sound**
 
 Currently working on **They Make Sound** - M2 project
 A third person game about speleology and exploration where you way down a giant pit filled with the ruins of an antique civilization. The goal is to produce a vertical slice, it is made by 10 people as second year project of the Master's degree at ENJMIN. 
@@ -81,6 +90,7 @@ A simplified Plants Vs. Zombies for Windows terminal using ASCII characters, mad
 ![Rider](https://img.shields.io/badge/Rider-ffffff?style=for-the-badge&logo=rider&logoColor=000000)
 
 ---
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eyecrown&show_icons=true&locale=en&layout=compact)
 
 
