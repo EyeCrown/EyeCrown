@@ -10,19 +10,25 @@ I'm also taking an interest in developing retro games, in particular by learning
 
 [![ItchIo](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://eyecrown.itch.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/theophile-carrasco)
-
-<!--[![CV FR](https://img.shields.io/badge/Resume-FR-002153?style=for-the-badge)](LINK FOR CV FR)
-[![CV EN](https://img.shields.io/badge/Resume-EN-cf091f?style=for-the-badge)](LINK FOR CV EN-->
+[![CV FR](https://img.shields.io/badge/Resume-FR-002153?style=for-the-badge)](/img/CV_Théophile_Carrasco.pdf)
+<!--[![CV EN](https://img.shields.io/badge/Resume-EN-cf091f?style=for-the-badge)](LINK FOR CV EN-->
 
 ## Projects
 
 ### Current Project - **They Make Sound**
 
-Currently working on **They Make Sound** - M2 project, A third-person game about speleology and exploration where you way down a giant pit filled with the ruins of an antique civilization. The goal is to produce a vertical slice, it is made by 10 people as the second-year project of the Master's degree at ENJMIN.
+An exploration and speleology game where you play an archaeologist descending into the immense abyss to study
+the ruins of an extinct civilization.
+Equipped with a device capable of hearing sounds emitted thousands of years ago, you must make your way ever deeper into
+the abyss in order to unravel the secrets of this mysterious civilization.
 
-They Make Sound is made with Unreal Engine.
+A journey of no return...
 
-**They Make Sound** is made with **Unreal Engine**.
+**They Make Sound** is made with **Unreal Engine**, using **Blueprint** & **C++**.
+
+- Develop game systems 
+- Work on camera
+- Ensure optimization
 
 ---
 
@@ -30,7 +36,7 @@ They Make Sound is made with Unreal Engine.
 
 [![CoverPendrillons](img/cover_pendrillons.png)](https://github.com/EyeCrown/Pendrillons)
 
-Pendrillons is a micro RPG that takes place in a play. Act out your role, choose your lines and actions, and engage in turn-based combat to influence the course of the show. But beware: an audience is watching the performance, and reacting to your every move!
+**Pendrillons** is a **micro RPG** that takes place in a play. Act out your role, choose your lines and actions, and engage in **turn-based** combat to influence the course of the show. But beware: an audience is **watching** the performance and **reacting** to your every move!
 
 It was created by 5 people in 3 months as an end-of-year project in the first year of the Master's degree at ENJMIN.
 
