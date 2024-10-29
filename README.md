@@ -2,13 +2,11 @@
 
 #### Hi 👋, I'm Théo(phile) Carrasco !
 
-I am a **Game Developper** student in 2nd year master's degree at [**ENJMIN**](https://enjmin.cnam.fr/enjmin/ecole-nationale-du-jeu-et-des-medias-interactifs-accueil-1126103.kjsp) 
+I am a **Game Developer** student in 2nd year master's degree at [**ENJMIN**](https://enjmin.cnam.fr/enjmin/ecole-nationale-du-jeu-et-des-medias-interactifs-accueil-1126103.kjsp) 
 with a passion for bringing immersive experiences to life through code, design, and creativity !
 My goal is to <!--specialize in Engine Programming, contributing--> contribute to the technology that powers games and interactive experiences. 
 
 I'm also taking an interest in developing retro games, in particular by learning how to develop games for the classic Game Boy.
-
-Don't hesitate to contact me !
 
 [![ItchIo](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://eyecrown.itch.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/theophile-carrasco)
@@ -20,8 +18,9 @@ Don't hesitate to contact me !
 
 ### Current Project - **They Make Sound**
 
-Currently working on **They Make Sound** - M2 project
-A third person game about speleology and exploration where you way down a giant pit filled with the ruins of an antique civilization. The goal is to produce a vertical slice, it is made by 10 people as second year project of the Master's degree at ENJMIN. 
+Currently working on **They Make Sound** - M2 project, A third-person game about speleology and exploration where you way down a giant pit filled with the ruins of an antique civilization. The goal is to produce a vertical slice, it is made by 10 people as the second-year project of the Master's degree at ENJMIN.
+
+They Make Sound is made with Unreal Engine.
 
 **They Make Sound** is made with **Unreal Engine**.
 
@@ -43,7 +42,7 @@ It was created by 5 people in 3 months as an end-of-year project in the first ye
 
 [![Cover](img/cover_engine_programming.png)](https://github.com/EyeCrown/Engine_Programming)
 
-A 3D game engine project. The engine is developped in C++ using **OpenGL** and the goal is to recreate a minecraft like environment. It integrate procedural world generation, vertex/geometry/fragment shading, FPS movements...
+A 3D game engine project. The engine is developed in C++ using **OpenGL**, and the goal was to recreate a Minecraft-like environment. It integrates procedural world generation, vertex/geometry/fragment shading, FPS movements...
 
 ---
 
@@ -51,7 +50,7 @@ A 3D game engine project. The engine is developped in C++ using **OpenGL** and t
 
 [![Cover](img/cover_gb_game.png)](https://github.com/EyeCrown/GB_TopDownGame)
 
-This is a tiny game for GameBoy Classic DMG. It's a dungeon crawler where you play a knight fighting monster to reach a tresor deep in the dungeon. This game is developed fully in **assembly code gbz80**.
+This is a tiny game for Game Boy Classic DMG. It's a dungeon crawler where you play a knight fighting monsters to reach a treasure deep in the dungeon. This game is developed in **assembly code GBZ80**.
 
 ---
 
@@ -70,10 +69,10 @@ A shoot 'em up game that offers a cooperative and strategic experience, where li
 Luminescence is a walking simulator on an alien planet displayed on four LED panels instead of a screen. This game was made in 3 and a half day during the Alternative Output Workshop at ENJMIN 2023. The objective was to create a game where the output wouldn't be a regular computer screen by using **Unity**.
 
 ---
-
-#### **Projet C++** - Plants Vs. Zombies in terminal
-A simplified Plants Vs. Zombies for Windows terminal using ASCII characters, made fully in C++ in duo at ENJMIN.
-
+<!--
+#### **Projet C++** - Plants vs. Zombies in terminal
+A simplified Plants s. Zombies for Windows terminal using ASCII characters, made fully in C++ in duo at ENJMIN.
+-->
 ## Tech Stack
 
 ### Game Engine
