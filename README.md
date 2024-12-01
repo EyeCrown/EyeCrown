@@ -10,7 +10,7 @@ I'm also taking an interest in developing retro games, in particular by learning
 
 [![ItchIo](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://eyecrown.itch.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/theophile-carrasco)
-[![CV FR](https://img.shields.io/badge/Resume-FR-002153?style=for-the-badge)](/img/CV_Théophile_Carrasco.pdf)
+[![CV FR](https://img.shields.io/badge/Resume-FR-002153?style=for-the-badge)](/img/CV_Theophile_Carrasco.pdf)
 <!--[![CV EN](https://img.shields.io/badge/Resume-EN-cf091f?style=for-the-badge)](LINK FOR CV EN-->
 
 ## Projects
