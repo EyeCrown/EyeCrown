@@ -15,20 +15,18 @@ I'm also taking an interest in developing retro games, in particular by learning
 
 ## Projects
 
-### Current Project - **They Make Sound**
+### [**They Make Sound**](https://github.com/EyeCrown/TheyMakeSounds) - M2 ENMJIN project
 
-An exploration and speleology game where you play an archaeologist descending into the immense abyss to study
-the ruins of an extinct civilization.
-Equipped with a device capable of hearing sounds emitted thousands of years ago, you must make your way ever deeper into
-the abyss in order to unravel the secrets of this mysterious civilization.
+[![CoverTheyMakeSounds](img/cover_theymakesounds.jpg)](https://github.com/EyeCrown/TheyMakeSounds)
+
+**They Make Sound** is an exploration and speleology game where you play an archaeologist descending into the immense abyss to study the ruins of an extinct civilization.
+Equipped with a device capable of hearing sounds emitted thousands of years ago, you must make your way ever deeper into the abyss in order to unravel the secrets of this mysterious civilization.
 
 A journey of no return...
 
-**They Make Sound** is made with **Unreal Engine**, using **Blueprint** & **C++**.
+It was created by 10 people in 4.5 months as the project in the second year of the Master's degree at ENJMIN.
 
-- Develop game systems 
-- Work on camera
-- Ensure optimization
+**They Make Sound** is made with **Unreal Engine**, using **Blueprint** & **C++**.
 
 ---
 
