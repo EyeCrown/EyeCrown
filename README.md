@@ -15,7 +15,7 @@ I'm also taking an interest in developing retro games, in particular by learning
 
 ## Projects
 
-### Current Project - **They Make Sound**
+### **They Make Sound** - M2 ENJMIN project
 
 An exploration and speleology game where you play an archaeologist descending into the immense abyss to study
 the ruins of an extinct civilization.
@@ -24,15 +24,18 @@ the abyss in order to unravel the secrets of this mysterious civilization.
 
 A journey of no return...
 
+It was created by 10 people in 5 months as the last project of the Master's degree at ENJMIN.
+
 **They Make Sound** is made with **Unreal Engine**, using **Blueprint** & **C++**.
 
 - Develop game systems 
-- Work on camera
+- Work on UI
 - Ensure optimization
+- Write technical documentation
 
 ---
 
-### [**Pendrillons**](https://github.com/EyeCrown/Pendrillons) - M1 ENJMIN end-of-year project
+### [**Pendrillons**](https://github.com/EyeCrown/Pendrillons) - M1 ENJMIN project
 
 [![CoverPendrillons](img/cover_pendrillons.png)](https://github.com/EyeCrown/Pendrillons)
 
@@ -52,11 +55,11 @@ A 3D game engine project. The engine is developed in C++ using **OpenGL**, and 
 
 ---
 
-#### [**Game Boy Game developpement**](https://github.com/EyeCrown/GB_TopDownGame)
+#### [**Aedifacotes**](https://eyecrown.itch.io/aedificatores)
 
-[![Cover](img/cover_gb_game.png)](https://github.com/EyeCrown/GB_TopDownGame)
+[![Cover](img/cover_nanno.png)](https://eyecrown.itch.io/aedificatores)
 
-This is a tiny game for Game Boy Classic DMG. It's a dungeon crawler where you play a knight fighting monsters to reach a treasure deep in the dungeon. This game is developed in **assembly code GBZ80**.
+This a little *proof of concept* about a city building game on GameBoy inspired by the Anno franchise. This game is written entirely in **assembly code**. 
 
 ---
 
