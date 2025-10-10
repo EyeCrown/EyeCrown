@@ -10,21 +10,21 @@ I'm also taking an interest in developing retro games, in particular by learning
 
 [![ItchIo](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://eyecrown.itch.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/theophile-carrasco)
-[![CV FR](https://img.shields.io/badge/Resume-FR-002153?style=for-the-badge)](/img/CV_Théophile_Carrasco.pdf)
+[![CV FR](https://img.shields.io/badge/Resume-FR-002153?style=for-the-badge)](/img/CV_Theophile_Carrasco.pdf)
 <!--[![CV EN](https://img.shields.io/badge/Resume-EN-cf091f?style=for-the-badge)](LINK FOR CV EN-->
 
 ## Projects
 
-### **They Make Sound** - M2 ENJMIN project
+### [**They Make Sound**](https://github.com/EyeCrown/TheyMakeSounds) - M2 ENMJIN project
 
-An exploration and speleology game where you play an archaeologist descending into the immense abyss to study
-the ruins of an extinct civilization.
-Equipped with a device capable of hearing sounds emitted thousands of years ago, you must make your way ever deeper into
-the abyss in order to unravel the secrets of this mysterious civilization.
+[![CoverTheyMakeSounds](img/cover_theymakesounds.jpg)](https://github.com/EyeCrown/TheyMakeSounds)
+
+**They Make Sound** is an exploration and speleology game where you play an archaeologist descending into the immense abyss to study the ruins of an extinct civilization.
+Equipped with a device capable of hearing sounds emitted thousands of years ago, you must make your way ever deeper into the abyss in order to unravel the secrets of this mysterious civilization.
 
 A journey of no return...
 
-It was created by 10 people in 5 months as the last project of the Master's degree at ENJMIN.
+It was created by 10 people in 4.5 months as the project in the second year of the Master's degree at ENJMIN.
 
 **They Make Sound** is made with **Unreal Engine**, using **Blueprint** & **C++**.
 
