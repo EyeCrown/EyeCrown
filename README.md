@@ -2,128 +2,144 @@
 
 #### Hi 👋, I'm Théo(phile) Carrasco !
 
-I am a **Game Developer** student in 2nd year master's degree at [**ENJMIN**](https://enjmin.cnam.fr/enjmin/ecole-nationale-du-jeu-et-des-medias-interactifs-accueil-1126103.kjsp) 
-with a passion for bringing immersive experiences to life through code, design, and creativity !
-My goal is to <!--specialize in Engine Programming, contributing--> contribute to the technology that powers games and interactive experiences. 
+> **I'm now using [Codeberg](https://codeberg.org/).**
+>
+> **You can go [here](https://codeberg.org/EyeCrown) to see my profile.** Since some of my projects were done with teammates and hosted on GitHub, I keep them here. 
 
-I'm also taking an interest in developing retro games, in particular by learning how to develop games for the classic Game Boy.
+## Tech Stack
 
-[![ItchIo](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://eyecrown.itch.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/theophile-carrasco)
-[![CV FR](https://img.shields.io/badge/Resume-FR-002153?style=for-the-badge)](/img/CV_Theophile_Carrasco.pdf)
-[![CV EN](https://img.shields.io/badge/Resume-EN-cf091f?style=for-the-badge)](/img/Resume%20-%20EN.pdf)
+![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal](https://img.shields.io/badge/Unreal-black?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-3e7ba9?style=for-the-badge&logo=godotengine&logoColor=white)
+
+![C#](https://custom-icon-badges.demolab.com/badge/C%23-360092.svg?style=for-the-badge&logo=cshrp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![C](https://img.shields.io/badge/C-3949ab?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-FF7800?style=for-the-badge&logo=openjdk)
+![Gdscript](https://img.shields.io/badge/Gdscript-3e7ba9?style=for-the-badge&logo=godotengine&logoColor=white)
+![ASMZ80](https://img.shields.io/badge/Gameboy-Assembly%20Z80-36622d?style=for-the-badge&labelColor=36622d)
+
+![Git](https://img.shields.io/badge/Git-eb4b1b?style=for-the-badge&logo=git&logoColor=efefe7)
+![Perforce](https://img.shields.io/badge/Perforce-00aeef?style=for-the-badge&logo=perforce&logoColor=ffffff)
+
+![VSCodium](https://img.shields.io/badge/VSCodium-3b6eb7?style=for-the-badge&logo=vscodium&logoColor=ffffff)
+![VisualStudio](https://custom-icon-badges.demolab.com/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Rider](https://img.shields.io/badge/Rider-ffffff?style=for-the-badge&logo=rider&logoColor=black)
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=ffffff)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion&logoColor=ffffff)
 
 ## Projects
+<!--
+<p align="left">
+  <img alt="" src="">
+</p>
+-->
+### **They Make Sounds** - M2 ENMJIN project
+[![ItchIo](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://theymakesounds.itch.io/they-make-sounds)
+[![Trailer](https://img.shields.io/badge/Trailer-ff0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=-RXQFmPGzjY)
+[![Source](https://img.shields.io/badge/Source-8534F3?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EyeCrown/TheyMakeSounds)
 
-### [**They Make Sound**](https://github.com/EyeCrown/TheyMakeSounds) - M2 ENMJIN project
+<p align="left">
+  <img alt="Unreal" src="https://img.shields.io/badge/Unreal-100000?style=for-the-badge&logo=unrealengine&logoColor=white">
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus">
+  <img alt="Blueprint" src="https://img.shields.io/badge/Blueprints-white?style=for-the-badge&color=212529">
+  <img alt="Perforce" src="https://img.shields.io/badge/Perforce-00aeef?style=for-the-badge&logo=perforce&logoColor=white">
+</p>
 
-[![CoverTheyMakeSounds](img/cover_theymakesounds.jpg)](https://github.com/EyeCrown/TheyMakeSounds)
-
-**They Make Sound** is an exploration and speleology game where you play an archaeologist descending into the immense abyss to study the ruins of an extinct civilization.
-Equipped with a device capable of hearing sounds emitted thousands of years ago, you must make your way ever deeper into the abyss in order to unravel the secrets of this mysterious civilization.
-
-A journey of no return...
-
-It was created by 10 people in 4.5 months as the project in the second year of the Master's degree at ENJMIN.
-
-**They Make Sound** is made with **Unreal Engine**, using **Blueprint** & **C++**.
-
-- Develop game systems 
-- Work on UI
-- Ensure optimization
-- Write technical documentation
-
----
-
-### [**Pendrillons**](https://github.com/EyeCrown/Pendrillons) - M1 ENJMIN project
-
-[![CoverPendrillons](img/cover_pendrillons.png)](https://github.com/EyeCrown/Pendrillons)
-
-**Pendrillons** is a **micro RPG** that takes place in a play. Act out your role, choose your lines and actions, and engage in **turn-based** combat to influence the course of the show. But beware: an audience is **watching** the performance and **reacting** to your every move!
-
-It was created by 5 people in 3 months as an end-of-year project in the first year of the Master's degree at ENJMIN.
-
-**Pendrillons** was made in **Unity**.
+<p align="left">
+  <img alt="ENJMIN" src="https://img.shields.io/badge/%20ENJMIN-M2-8e001e?style=for-the-badge&labelColor=c1002a">
+  <img alt="Duration" src="https://img.shields.io/badge/development_time-4.5%20mounths-white?style=for-the-badge&labelColor=540b0e&color=9e2a2b">
+  <img alt="Team" src="https://img.shields.io/badge/team_members-10-green?style=for-the-badge&labelColor=3a5a40&color=588157">
+</p>
 
 ---
 
-### [**Engine Programming**](https://github.com/EyeCrown/Engine_Programming)
+### **Pendrillons** - M1 ENJMIN project
 
-[![Cover](img/cover_engine_programming.png)](https://github.com/EyeCrown/Engine_Programming)
+[![ItchIo](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://victorien-prevot.itch.io/pendrillons)
+[![Trailer](https://img.shields.io/badge/Trailer-ff0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=8T8NzodOrms)
+[![Source](https://img.shields.io/badge/Source-8534F3?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EyeCrown/Pendrillons)
+
+<p align="left">
+  <img alt="Unity" src="https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&logoColor=white">
+  <img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-360092.svg?style=for-the-badge&logo=cshrp&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-eb4b1b?style=for-the-badge&logo=git&logoColor=efefe7">
+</p>
+
+<p align="left">
+  <img alt="ENJMIN" src="https://img.shields.io/badge/%20ENJMIN-M1-8e001e?style=for-the-badge&labelColor=c1002a">
+  <img alt="Duration" src="https://img.shields.io/badge/development_time-3%20mounths-white?style=for-the-badge&labelColor=540b0e&color=9e2a2b">
+  <img alt="Team" src="https://img.shields.io/badge/team_members-5-green?style=for-the-badge&labelColor=3a5a40&color=588157">
+</p>
+
+---
+
+### **3D Rendering** - ENJMIN project
+
+[![Trailer](https://img.shields.io/badge/Demo-ff0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=35LwswKQzsk)
+[![Source](https://img.shields.io/badge/Source-2185D0?style=for-the-badge&logo=codeberg&logoColor=white)](https://codeberg.org/EyeCrown/Engine_Programming)
+
+<p align="left">
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus">
+  <img alt="OpenGL" src="https://img.shields.io/badge/made%20with%20OpenGL-ffffff?style=for-the-badge&logo=opengl&logoSize=auto&color=white">
+
+</p>
+
+<p align="left">
+  <img alt="ENJMIN" src="https://img.shields.io/badge/%20ENJMIN-M1-8e001e?style=for-the-badge&labelColor=c1002a">
+  <img alt="Duration" src="https://img.shields.io/badge/development_time-1.5%20mounths-white?style=for-the-badge&labelColor=540b0e&color=9e2a2b">
+  <img alt="Team" src="https://img.shields.io/badge/solo-dev-green?style=for-the-badge&labelColor=3a5a40&color=588157">
+</p>
 
 A 3D game engine project. The engine is developed in C++ using **OpenGL**, and the goal was to recreate a Minecraft-like environment. It integrates procedural world generation, vertex/geometry/fragment shading, FPS movements...
 
 ---
 
-#### [**Aedifacotes**](https://eyecrown.itch.io/aedificatores)
-
-[![Cover](img/cover_nanno.png)](https://eyecrown.itch.io/aedificatores)
-
-This a little *proof of concept* about a city building game on GameBoy inspired by the Anno franchise. This game is written entirely in **assembly code**. 
-
----
-
-#### [**Arakne**](https://github.com/EyeCrown/Arakne)
-
-[![Cover](img/cover_arakne.png)](https://github.com/EyeCrown/Arakne)
-
-A shoot 'em up game that offers a cooperative and strategic experience, where light challenges darkness. Made by 11 people team on 4 full-days work as Nano project at ENJMIN using **Unity**.
+### **Aedifacotes**
+[![Source](https://img.shields.io/badge/Source-2185D0?style=for-the-badge&logo=codeberg&logoColor=white)](https://codeberg.org/EyeCrown/Nanno)
+![ASMZ80](https://img.shields.io/badge/Gameboy-Assembly%20Z80-36622d?style=for-the-badge&labelColor=36622d)
+![Team](https://img.shields.io/badge/solo-dev-green?style=for-the-badge&labelColor=3a5a40&color=588157)
 
 ---
 
-#### [**Luminescence**](https://github.com/EyeCrown/Luminescence)
+### **Arakne**
 
-[![Cover](img/cover_luminescence.png)](https://github.com/EyeCrown/Luminescence)
+[![ItchIo](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://boolti.itch.io/araknealightgame)
+[![Trailer](https://img.shields.io/badge/Trailer-ff0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=K5TqSyxehdk)
+[![Source](https://img.shields.io/badge/Source-8534F3?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EyeCrown/Arakne)
 
-Luminescence is a walking simulator on an alien planet displayed on four LED panels instead of a screen. This game was made in 3 and a half day during the Alternative Output Workshop at ENJMIN 2023. The objective was to create a game where the output wouldn't be a regular computer screen by using **Unity**.
+<p align="left">
+  <img alt="Unity" src="https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&logoColor=white">
+  <img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-360092.svg?style=for-the-badge&logo=cshrp&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-eb4b1b?style=for-the-badge&logo=git&logoColor=efefe7">
+</p>
 
----
-<!--
-#### **Projet C++** - Plants vs. Zombies in terminal
-A simplified Plants s. Zombies for Windows terminal using ASCII characters, made fully in C++ in duo at ENJMIN.
--->
-## Tech Stack
-
-### Game Engine
-![Unity](https://img.shields.io/badge/Unity-ffffff?style=for-the-badge&logo=unity&logoColor=000000)
-![Unreal](https://img.shields.io/badge/Unreal-100000?style=for-the-badge&logo=unrealengine&logoColor=white)
-
-### Languages
-![C#](https://img.shields.io/badge/C%23-954a94?style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-6796d1?style=for-the-badge)
-![C](https://img.shields.io/badge/C-616dc1?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-2875c1?style=for-the-badge)
-![ASMZ80](https://img.shields.io/badge/ASM--GBZ80-36622d?style=for-the-badge)
-
-### Versioning
-![Git](https://img.shields.io/badge/Git-eb4b1b?style=for-the-badge&logo=git&logoColor=efefe7)
-![Perforce](https://img.shields.io/badge/Perforce-3b6eb7?style=for-the-badge&logo=perforce&logoColor=ffffff)
-
-### IDEs
-![VSCodium](https://img.shields.io/badge/VSCodium-3b6eb7?style=for-the-badge&logo=vscodium&logoColor=ffffff)
-![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Rider](https://img.shields.io/badge/Rider-ffffff?style=for-the-badge&logo=rider&logoColor=000000)
+<p align="left">
+  <img alt="ENJMIN" src="https://img.shields.io/badge/%20ENJMIN-M1-8e001e?style=for-the-badge&labelColor=c1002a">
+  <img alt="Duration" src="https://img.shields.io/badge/development_time-1%20week-white?style=for-the-badge&labelColor=540b0e&color=9e2a2b">
+  <img alt="Team" src="https://img.shields.io/badge/team_members-11-green?style=for-the-badge&labelColor=3a5a40&color=588157">
+</p>
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eyecrown&show_icons=true&locale=en&layout=compact)
+### **Luminescence**
 
+[![ItchIo](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://eyecrown.itch.io/luminescence)
+[![Trailer](https://img.shields.io/badge/Trailer-ff0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=au-JxN-R8Mg)
+[![Source](https://img.shields.io/badge/Source-8534F3?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EyeCrown/Luminescence)
 
+<p align="left">
+  <img alt="Unity" src="https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&logoColor=white">
+  <img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-360092.svg?style=for-the-badge&logo=cshrp&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-eb4b1b?style=for-the-badge&logo=git&logoColor=efefe7">
+</p>
 
-<!--
-**EyeCrown/EyeCrown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img alt="ENJMIN" src="https://img.shields.io/badge/%20ENJMIN-M1-8e001e?style=for-the-badge&labelColor=c1002a">
+  <img alt="Duration" src="https://img.shields.io/badge/development_time-1%20week-white?style=for-the-badge&labelColor=540b0e&color=9e2a2b">
+  <img alt="Team" src="https://img.shields.io/badge/team_members-7-green?style=for-the-badge&labelColor=3a5a40&color=588157">
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on **They Make Sound** (more details below)
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-
--->
+---
