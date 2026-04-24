@@ -1,7 +1,5 @@
 # **My [Codeberg profile](https://codeberg.org/EyeCrown)**
 
-#### 
-
 > Hi 👋, I'm Théo(phile) Carrasco !
 >**I'm now using Codeberg.**
 > **You can go [here](https://codeberg.org/EyeCrown) to see my profile.** 
